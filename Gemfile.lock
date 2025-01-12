@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    eph_jpl (0.1.2)
+    mk_time (0.4.2)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  eph_jpl
+  mk_time
+
+BUNDLED WITH
+   2.6.2
